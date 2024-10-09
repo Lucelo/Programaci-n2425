@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Boletin1/Boletin1.iml" filepath="$PROJECT_DIR$/Boletin1/Boletin1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programaci-n2425/Programaci-n2425.iml" filepath="$PROJECT_DIR$/Programaci-n2425/Programaci-n2425.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Proyectos.iml" filepath="$PROJECT_DIR$/.idea/Proyectos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prueba/Prueba.iml" filepath="$PROJECT_DIR$/Prueba/Prueba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prueva1/Prueva1.iml" filepath="$PROJECT_DIR$/Prueva1/Prueva1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T3_5/T3_5.iml" filepath="$PROJECT_DIR$/T3_5/T3_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T3_6/T3_6.iml" filepath="$PROJECT_DIR$/T3_6/T3_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T3_7/T3_7.iml" filepath="$PROJECT_DIR$/T3_7/T3_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T3_8/T3_8.iml" filepath="$PROJECT_DIR$/T3_8/T3_8.iml" />
+    </modules>
+  </component>
+</project>
